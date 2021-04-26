@@ -1,4 +1,4 @@
-General:
+## General:
 
 This gist provides a minimal example for testing Open Data Cube (ODC), specifically indexing products/datasets and loading them in a Jupyter Notebook via datacube.
 
@@ -8,14 +8,14 @@ It should help to
 - check dimensions of the loaded netCDF
 - ...
 
-Requirements:
+## Requirements:
 
 To use this minimal example, Open Data Cube has to be installed. This includes installing the necessary Python libraries and setting up the (PostgreSQL) database.
 
 - libraries: https://opendatacube.readthedocs.io/en/latest/ops/install.html
 - database: https://opendatacube.readthedocs.io/en/latest/ops/db_setup.html
 
-How to use:
+## How to use:
 
 (Be sure the conda environment or virtual environement is active if you use any.)
 
