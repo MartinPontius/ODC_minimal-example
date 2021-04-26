@@ -20,8 +20,8 @@ grid_spatial:
 id: 272302c9-1449-4a33-8166-4b6083a8a713
 image:
   bands:
-    height: {path: minimal-example.nc, layer: height}
-    period: {path: minimal-example.nc, layer: period}
+    height: {path: ../minimal-example.nc, layer: height}
+    period: {path: ../minimal-example.nc, layer: period}
 instrument: {name: NA}
 lineage:
   source_datasets: {}

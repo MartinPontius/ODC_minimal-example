@@ -16,10 +16,10 @@ grids:
 
 measurements:
    height:
-     path: minimal-example.nc
+     path: ../minimal-example.nc
      layer: height
    period:
-     path: minimal-example.nc
+     path: ../minimal-example.nc
      layer: period
 
 properties:
