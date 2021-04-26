@@ -11,7 +11,7 @@ metadata:
 storage:
     crs: EPSG:4326
     resolution:
-        longitude: -1.0
+        longitude: 1.0
         latitude: 1.0
 
 measurements:
