@@ -22,10 +22,10 @@ To use this minimal example, Open Data Cube has to be installed. This includes i
 After preparations are made, products/datasets have to be added to the index:
 
 - for eo metadata type:
-   - datacube product add ODC_eo-product_minimal-example.yaml
-   - datacube dataset add ODC_eo-dataset_minimal-example.yaml
+   - datacube product add metadata/ODC_eo-product_minimal-example.yaml
+   - datacube dataset add metadata/ODC_eo-dataset_minimal-example.yaml
 - for eo3 metadata type:
-   - datacube product add ODC_eo3-product_minimal-example.yaml
-   - datacube dataset add ODC_eo3-dataset_minimal-example.yaml
+   - datacube product add metadata/ODC_eo3-product_minimal-example.yaml
+   - datacube dataset add metadata/ODC_eo3-dataset_minimal-example.yaml
 
 Afterwards, run the Jupyter Notebook.
