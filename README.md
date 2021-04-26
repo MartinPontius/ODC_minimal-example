@@ -1,6 +1,6 @@
 ## General:
 
-This gist provides a minimal example for testing Open Data Cube (ODC), specifically indexing products/datasets and loading them in a Jupyter Notebook via datacube.
+This repository provides a minimal example for testing Open Data Cube (ODC), specifically indexing products/datasets and loading them in a Jupyter Notebook via datacube.
 
 It should help to
 - check how nodata values are handled
