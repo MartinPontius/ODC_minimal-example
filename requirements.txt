@@ -1,0 +1,6 @@
+datacube
+jupyter
+matplotlib
+numpy
+rioxarray
+xarray

@@ -6,6 +6,23 @@ metadata:
     product:
         name: minimal_example_eo3
 
+storage:
+  crs: "EPSG:4326"
+  resolution:
+    # netcdf variable.step
+    # use axis names from CRS
+    latitude: 1.0
+    longitude: 1.0
+
+#load:
+#  crs: "EPSG:4326"
+#  align:
+#    x: 0.5
+#    y: 0.5
+#  resolution:
+#    latitude: 1.0
+#    longitude: 1.0
+
 measurements:
 - name: 'height'
   aliases: [band_01, B01, Band1]
